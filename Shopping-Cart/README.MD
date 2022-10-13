@@ -1,9 +1,6 @@
 PROJECT TITLE:
 Electronics Web Apllication
 
-Video Demo:
-https://youtu.be/azFrUG_oQ48
-
 #Description:
 
 This project contains several files which having electronics application loading five random products
